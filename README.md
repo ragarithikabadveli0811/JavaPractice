@@ -6,7 +6,7 @@
 ╔══════════════════════════════════════════════════════════╗
 ║           JAVA CHALLENGE PROGRESS                       ║
 ║                                                         ║
-║   Day 03  ████████████░░░░░░░░░░░░░░░░░░░░░░  3 / 21   ║
+║   Day 04  ████████████████░░░░░░░░░░░░░░░░░░  4 / 21   ║
 ║                                                         ║
 ║   ✅ Completed   🔄 In Progress   ⬜ Upcoming           ║
 ╚══════════════════════════════════════════════════════════╝
@@ -20,8 +20,8 @@
 | M3 | Features of Java | ✅ |
 | M4 | Main Method | ✅ |
 | M5 | Pattern Programming (Part 1) | ✅ |
-| M5 | Pattern Programming (Part 2) | 🔄 |
-| M5 | Pattern Programming (Part 3) | ⬜ |
+| M5 | Pattern Programming (Part 2) | ✅ |
+| M5 | Pattern Programming (Part 3) | ✅ |
 | M6 | Data Types | ⬜ |
 | M7 | Operators & Loops | ⬜ |
 
@@ -36,7 +36,7 @@
 | 01 | Jun 2 | M2 + M3 (Lesson 1) | FSWD, Evolution of HLL, Failure of Platform-Dependent Languages | ✅ |
 | 02 | Jun 3 | M3 (Lesson 2) + M4 | Portability, OOP Introduction, Main Method | ✅ |
 | 03 | Jun 4 | M5 (Pattern Programming Part 1) | Pattern Logic, Nested Loops, Problem Solving | ✅ |
-| 04 | Jun 5 | — | — | ⬜ |
+| 04 | Jun 5 | M5 (Pattern Programming Part 2 & Part 3) | Hollow Patterns, Number Patterns, Pyramid Patterns, Advanced Nested Loops | ✅ |
 | 05 | Jun 6 | — | — | ⬜ |
 | 06 | Jun 7 | — | — | ⬜ |
 | 07 | Jun 8 | — | — | ⬜ |
@@ -50,6 +50,7 @@
 | 01 | FSWD, HLL & Platform Dependency | Evolution of programming languages and why platform-dependent languages created challenges. |
 | 02 | Portability, OOP & Main Method | How Java achieves portability, introduction to OOP, and the role of public static void main(String[] args). |
 | 03 | Pattern Programming | Using nested loops and logic building to generate patterns and improve problem-solving skills. |
+| 04 | Advanced Pattern Programming | Built hollow patterns, number patterns, pyramids, and strengthened nested loop logic through multiple pattern implementations. |
 
 ---
 
@@ -60,6 +61,7 @@
 | 01 | FSWD, Evolution of HLL & Platform-Dependent Languages |
 | 02 | Java Portability, OOP Basics & Main Method |
 | 03 | My First Steps into Pattern Programming |
+| 04 | Advanced Pattern Programming: Hollow, Number & Pyramid Patterns |
 
 ---
 
