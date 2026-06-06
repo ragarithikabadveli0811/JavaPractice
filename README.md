@@ -6,7 +6,7 @@
 ╔══════════════════════════════════════════════════════════╗
 ║           JAVA CHALLENGE PROGRESS                       ║
 ║                                                         ║
-║   Day 04  ████████████████░░░░░░░░░░░░░░░░░░░  4 / 21   ║
+║   Day 05  ████████████████████░░░░░░░░░░░░░░  5 / 21   ║
 ║                                                         ║
 ║   ✅ Completed   🔄 In Progress   ⬜ Upcoming           ║
 ╚══════════════════════════════════════════════════════════╝
@@ -17,49 +17,48 @@
 | Module | Topic | Status |
 |---------|---------|---------|
 | M2 | Introduction to FSWD & Evolution of HLL | ✅ |
-| M3 | Features of Java | ✅ |
-| M4 | Main Method | ✅ |
+| M3 | Features of Java, JVM & Bytecode | ✅ |
+| M3 (Continued) | OOP Introduction & Java Program Structure | ✅ |
 | M5 | Pattern Programming (Part 1) | ✅ |
 | M5 | Pattern Programming (Part 2) | ✅ |
-| M5 | Pattern Programming (Part 3) | 🔄 |
+| M5 | Pattern Programming (Part 3) | ✅ |
 | M6 | Data Types | ⬜ |
 | M7 | Operators & Loops | ⬜ |
-
----
+| M8 | Arrays & Methods | ⬜ |
 
 ## 🗓️ 21-Day Challenge Log
 
+### Week 1 — Java Foundations (Jun 2 – Jun 8)
+
 | Day | Date | Module | Learning Highlights | Status |
 |------|------|---------|---------|--------|
-| 01 | Jun 2 | M2 + M3 (Lesson 1) | FSWD, Evolution of HLL, Failure of Platform-Dependent Languages | ✅ |
-| 02 | Jun 3 | M3 (Lesson 2) + M4 | Portability, OOP Introduction, Main Method | ✅ |
-| 03 | Jun 4 | M5 (Pattern Programming Part 1) | Pattern Logic, Nested Loops, Problem Solving | ✅ |
-| 04 | Jun 5 | M5 (Pattern Programming Part 2) | Hollow Patterns, Number Patterns, Pyramid Logic, Advanced Nested Loops | ✅ |
-| 05 | Jun 6 | — | — | ⬜ |
-
----
+| 01 | Jun 2 | M2 | Evolution of HLL, Why Java, FSWD Basics | ✅ |
+| 02 | Jun 3 | M3 | JVM, Bytecode, Platform Independence | ✅ |
+| 03 | Jun 4 | M3 | Java Program Structure, OOP Introduction, main() Method | ✅ |
+| 04 | Jun 5 | M5 | Pattern Programming Part 1 & 2, Hollow & Pyramid Patterns | ✅ |
+| 05 | Jun 6 | M5 | Floyd's Triangle, Alphabet Patterns, Zig-Zag Patterns | ✅ |
+| 06 | Jun 7 | — | — | ⬜ |
+| 07 | Jun 8 | — | — | ⬜ |
 
 ## 💡 Learning Highlights
 
 | Day | Topic | What I Learned |
 |------|---------|---------|
-| 01 | FSWD, HLL & Platform Dependency | Evolution of programming languages and platform dependency challenges. |
-| 02 | Portability, OOP & Main Method | Java portability, OOP basics, and the main method. |
-| 03 | Pattern Programming Part 1 | Building logic with nested loops and basic patterns. |
-| 04 | Pattern Programming Part 2 | Hollow triangles, number pyramids, inverted patterns, and strengthening loop logic. |
-
----
+| 01 | Evolution of HLL & FSWD | How programming languages evolved and how Java became a platform-independent language. |
+| 02 | JVM & Bytecode | Java compiles to bytecode which runs on the JVM. |
+| 03 | Java Program Structure | Understanding public static void main(String[] args) and basic OOP concepts. |
+| 04 | Pattern Programming | Hollow patterns, number patterns, pyramids and advanced nested loops. |
+| 05 | Number & Alphabet Patterns | Floyd's Triangle, character manipulation using ch++, alphabet patterns and zig-zag logic. |
 
 ## 📝 LinkedIn Posts
 
 | Day | Topic |
 |------|---------|
-| 01 | FSWD, Evolution of HLL & Platform-Dependent Languages |
-| 02 | Java Portability, OOP Basics & Main Method |
-| 03 | My First Steps into Pattern Programming |
+| 01 | Introduction to FSWD & Evolution of Programming Languages |
+| 02 | JVM, Bytecode & Platform Independence |
+| 03 | Understanding Java's Entry Point and OOP Basics |
 | 04 | Pattern Programming: Hollow, Pyramid & Number Patterns |
-
----
+| 05 | Number & Alphabet Pattern Programming |
 
 ## 🎯 Goal
 
