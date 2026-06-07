@@ -6,7 +6,7 @@
 ╔══════════════════════════════════════════════════════════╗
 ║           JAVA CHALLENGE PROGRESS                       ║
 ║                                                         ║
-║   Day 05  ████████████████████░░░░░░░░░░░░░░  5 / 21   ║
+║   Day 06  ████████████████████████░░░░░░░░░░  6 / 21   ║
 ║                                                         ║
 ║   ✅ Completed   🔄 In Progress   ⬜ Upcoming           ║
 ╚══════════════════════════════════════════════════════════╝
@@ -22,7 +22,7 @@
 | M5 | Pattern Programming (Part 1) | ✅ |
 | M5 | Pattern Programming (Part 2) | ✅ |
 | M5 | Pattern Programming (Part 3) | ✅ |
-| M6 | Data Types | ⬜ |
+| M6 | Data Types | ✅ |
 | M7 | Operators & Loops | ⬜ |
 | M8 | Arrays & Methods | ⬜ |
 
@@ -37,7 +37,7 @@
 | 03 | Jun 4 | M3 | Java Program Structure, OOP Introduction, main() Method | ✅ |
 | 04 | Jun 5 | M5 | Pattern Programming Part 1 & 2, Hollow & Pyramid Patterns | ✅ |
 | 05 | Jun 6 | M5 | Floyd's Triangle, Alphabet Patterns, Zig-Zag Patterns | ✅ |
-| 06 | Jun 7 | — | — | ⬜ |
+| 06 | Jun 7 | M6 | Data Types, RAM, Bits & Bytes, byte, short, int, long, Memory Allocation | ✅ |
 | 07 | Jun 8 | — | — | ⬜ |
 
 ## 💡 Learning Highlights
@@ -49,6 +49,7 @@
 | 03 | Java Program Structure | Understanding public static void main(String[] args) and basic OOP concepts. |
 | 04 | Pattern Programming | Hollow patterns, number patterns, pyramids and advanced nested loops. |
 | 05 | Number & Alphabet Patterns | Floyd's Triangle, character manipulation using ch++, alphabet patterns and zig-zag logic. |
+| 06 | Data Types | Learned how Java stores data in memory, primitive data types, memory allocation, ranges of byte, short, int and long, and choosing appropriate data types for efficient memory usage. |
 
 ## 📝 LinkedIn Posts
 
@@ -59,7 +60,13 @@
 | 03 | Understanding Java's Entry Point and OOP Basics |
 | 04 | Pattern Programming: Hollow, Pyramid & Number Patterns |
 | 05 | Number & Alphabet Pattern Programming |
+| 06 | Understanding Java Data Types, Memory Allocation & RAM |
 
 ## 🎯 Goal
 
 Complete a 21-day Java learning challenge while documenting progress publicly on LinkedIn and GitHub, focusing on understanding concepts rather than memorizing syntax.
+
+## 🔗 Repository
+
+GitHub Repository:
+https://github.com/ragarithikabadveli0811/JavaPractice
