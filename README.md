@@ -6,7 +6,7 @@
 ╔══════════════════════════════════════════════════════════╗
 ║           JAVA CHALLENGE PROGRESS                       ║
 ║                                                         ║
-║   Day 12  █████████████████████████████████████████░ 12/21║
+║   Day 13  ██████████████████████████████████████████░ 13/21║
 ║                                                         ║
 ║   ✅ Completed   🔄 In Progress   ⬜ Upcoming           ║
 ╚══════════════════════════════════════════════════════════╝
@@ -24,26 +24,27 @@
 |M5            |Pattern Programming (Part 3)             |✅     |
 |M6            |Data Types (Completed)                   |✅     |
 |M7            |Operators & Loops (Part 1)               |✅     |
-|M8            |Variables & Methods                      |🔄     |
+|M8            |Variables & Methods (Completed)          |✅     |
 
 -----
 
 ## 🗓️ 21-Day Challenge Log
 
-|Day|Module|Learning Highlights                                                                                                     |Status|
-|---|------|------------------------------------------------------------------------------------------------------------------------|------|
-|01 |M2    |Evolution of HLL, Why Java, FSWD Basics                                                                                 |✅     |
-|02 |M3    |JVM, Bytecode, Platform Independence                                                                                    |✅     |
-|03 |M3    |Java Program Structure, OOP Introduction, main() Method                                                                 |✅     |
-|04 |M5    |Pattern Programming Part 1 & 2, Hollow & Pyramid Patterns                                                               |✅     |
-|05 |M5    |Floyd’s Triangle, Alphabet Patterns, Zig-Zag Patterns                                                                   |✅     |
-|06 |M6    |Data Types, RAM, Bits & Bytes, Memory Allocation                                                                        |✅     |
-|07 |M6    |Binary Numbers, MSB, Signed Numbers, Complements, Unicode                                                               |✅     |
-|08 |M6    |Type Casting, Truncation, Overflow, Increment & Decrement Operators                                                     |✅     |
-|09 |M7    |Operators & Loops Part 1, Arithmetic, Relational, Logical & Conditional Operators                                       |✅     |
-|10 |M7    |While, Do-While Loops, For Loops, Boolean-Controlled Loops                                                              |✅     |
-|11 |M8    |Variables: Declaration, Initialization, Scope & Naming                                                                  |✅     |
-|12 |M8    |Method Structure, Parameters and Return Types, Different Types of Methods, Stack and Heap Memory During Method Execution|✅     |
+|Day|Module|Learning Highlights                                                                                                             |Status|
+|---|------|--------------------------------------------------------------------------------------------------------------------------------|------|
+|01 |M2    |Evolution of HLL, Why Java, FSWD Basics                                                                                         |✅     |
+|02 |M3    |JVM, Bytecode, Platform Independence                                                                                            |✅     |
+|03 |M3    |Java Program Structure, OOP Introduction, main() Method                                                                         |✅     |
+|04 |M5    |Pattern Programming Part 1 & 2, Hollow & Pyramid Patterns                                                                       |✅     |
+|05 |M5    |Floyd’s Triangle, Alphabet Patterns, Zig-Zag Patterns                                                                           |✅     |
+|06 |M6    |Data Types, RAM, Bits & Bytes, Memory Allocation                                                                                |✅     |
+|07 |M6    |Binary Numbers, MSB, Signed Numbers, Complements, Unicode                                                                       |✅     |
+|08 |M6    |Type Casting, Truncation, Overflow, Increment & Decrement Operators                                                             |✅     |
+|09 |M7    |Operators & Loops Part 1, Arithmetic, Relational, Logical & Conditional Operators                                               |✅     |
+|10 |M7    |While, Do-While Loops, For Loops, Boolean-Controlled Loops                                                                      |✅     |
+|11 |M8    |Variables: Declaration, Initialization, Scope & Naming                                                                          |✅     |
+|12 |M8    |Method Structure, Parameters and Return Types, Different Types of Methods, Stack and Heap Memory During Method Execution        |✅     |
+|13 |M8    |Value and Reference Type Assignment, Pass by Value vs Pass by Reference, Stack Memory vs Heap Memory, Libraries/Packages/Modules|✅     |
 
 -----
 
@@ -128,6 +129,15 @@
 - Different Types of Methods
 - Stack and Heap Memory During Method Execution
 
+### Day 13 – Value, Reference & Packages
+
+- Value Type Assignment
+- Reference Type Assignment
+- Pass by Value vs Pass by Reference
+- Stack Memory vs Heap Memory
+- Libraries and Packages
+- Scanner Class for User Input
+
 -----
 
 ## 📝 LinkedIn Journey
@@ -146,6 +156,7 @@
 |10 |Loops and Control Flow                                    |
 |11 |Understanding Variables in Java                           |
 |12 |Methods in Java and their Types                           |
+|13 |Variables and Methods                                     |
 
 -----
 
