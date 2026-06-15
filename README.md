@@ -6,7 +6,7 @@
 ╔══════════════════════════════════════════════════════════╗
 ║           JAVA CHALLENGE PROGRESS                       ║
 ║                                                         ║
-║   Day 13  ██████████████████████████████████████████░ 13/21║
+║   Day 14  ████████████████████████████████████████████░ 14/21║
 ║                                                         ║
 ║   ✅ Completed   🔄 In Progress   ⬜ Upcoming           ║
 ╚══════════════════════════════════════════════════════════╝
@@ -25,6 +25,8 @@
 |M6            |Data Types (Completed)                   |✅     |
 |M7            |Operators & Loops (Part 1)               |✅     |
 |M8            |Variables & Methods (Completed)          |✅     |
+|M9            |Arrays (Part 1)                          |✅     |
+|M9            |Arrays (Part 2)                          |✅     |
 
 -----
 
@@ -45,6 +47,7 @@
 |11 |M8    |Variables: Declaration, Initialization, Scope & Naming                                                                          |✅     |
 |12 |M8    |Method Structure, Parameters and Return Types, Different Types of Methods, Stack and Heap Memory During Method Execution        |✅     |
 |13 |M8    |Value and Reference Type Assignment, Pass by Value vs Pass by Reference, Stack Memory vs Heap Memory, Libraries/Packages/Modules|✅     |
+|14 |M9    |1D Arrays, 2D Arrays, 3D Arrays                                                                                                 |✅     |
 
 -----
 
@@ -138,6 +141,13 @@
 - Libraries and Packages
 - Scanner Class for User Input
 
+### Day 14 – Arrays
+
+- Construction of Arrays
+- 1D Arrays
+- 2D Arrays
+- 3D Arrays
+
 -----
 
 ## 📝 LinkedIn Journey
@@ -157,6 +167,7 @@
 |11 |Understanding Variables in Java                           |
 |12 |Methods in Java and their Types                           |
 |13 |Variables and Methods                                     |
+|14 |Arrays Part 1 & 2                                         |
 
 -----
 
@@ -175,5 +186,4 @@ Focus:
 
 ## 🔗 Repository
 
-GitHub Repository:
-<https://github.com/ragarithikabadveli0811/JavaPractice>
+GitHub Repository: <https://github.com/ragarithikabadveli0811/JavaPractice>
