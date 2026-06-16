@@ -6,7 +6,7 @@
 ╔══════════════════════════════════════════════════════════╗
 ║           JAVA CHALLENGE PROGRESS                       ║
 ║                                                         ║
-║   Day 14  ████████████████████████████████████████████░ 14/21║
+║   Day 15  ████████████████████████████████████████████░ 15/21║
 ║                                                         ║
 ║   ✅ Completed   🔄 In Progress   ⬜ Upcoming           ║
 ╚══════════════════════════════════════════════════════════╝
@@ -27,6 +27,7 @@
 |M8            |Variables & Methods (Completed)          |✅     |
 |M9            |Arrays (Part 1)                          |✅     |
 |M9            |Arrays (Part 2)                          |✅     |
+|M9            |Arrays (Part 3)                          |✅     |
 
 -----
 
@@ -48,6 +49,7 @@
 |12 |M8    |Method Structure, Parameters and Return Types, Different Types of Methods, Stack and Heap Memory During Method Execution        |✅     |
 |13 |M8    |Value and Reference Type Assignment, Pass by Value vs Pass by Reference, Stack Memory vs Heap Memory, Libraries/Packages/Modules|✅     |
 |14 |M9    |1D Arrays, 2D Arrays, 3D Arrays                                                                                                 |✅     |
+|15 |M9    |2D Jagged Arrays, 3D Jagged Arrays                                                                                              |✅     |
 
 -----
 
@@ -148,6 +150,14 @@
 - 2D Arrays
 - 3D Arrays
 
+### Day 15 – Arrays (Continued)
+
+- 2D Jagged Arrays
+- 3D Jagged Arrays
+- Dynamic Memory Allocation using new
+- Nested Loops for Traversal
+- Using .length in Multi-dimensional Arrays
+
 -----
 
 ## 📝 LinkedIn Journey
@@ -168,6 +178,7 @@
 |12 |Methods in Java and their Types                           |
 |13 |Variables and Methods                                     |
 |14 |Arrays Part 1 & 2                                         |
+|15 |Arrays Part 3                                             |
 
 -----
 
