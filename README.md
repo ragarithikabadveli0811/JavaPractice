@@ -6,7 +6,7 @@
 ╔══════════════════════════════════════════════════════════╗
 ║           JAVA CHALLENGE PROGRESS                       ║
 ║                                                         ║
-║   Day 16  ████████████████████████████████████████████░ 16/21║
+║   Day 17  ████████████████████████████████████████████░ 17/21║
 ║                                                         ║
 ║   ✅ Completed   🔄 In Progress   ⬜ Upcoming           ║
 ╚══════════════════════════════════════════════════════════╝
@@ -29,6 +29,7 @@
 |M9            |Arrays (Part 2)                          |✅     |
 |M9            |Arrays (Part 3)                          |✅     |
 |M9            |Arrays (Completed)                       |✅     |
+|M10           |Wrapper Classes & Strings (Completed)    |✅     |
 
 -----
 
@@ -52,6 +53,7 @@
 |14 |M9    |1D Arrays, 2D Arrays, 3D Arrays                                                                                                 |✅     |
 |15 |M9    |2D Jagged Arrays, 3D Jagged Arrays                                                                                              |✅     |
 |16 |M9    |Drawbacks of Arrays, Array Declaration & Instantiation, Array Initialization, Multi-dimensional Array Representation            |✅     |
+|17 |M10   |Introduction to Wrapper Classes, Introduction to Strings                                                                        |✅     |
 
 -----
 
@@ -170,6 +172,18 @@
   - 3D Arrays
 - Multi-dimensional Array Representation
 
+### Day 17 – Wrapper Classes & Strings
+
+- Primitive Data Types vs Wrapper Classes
+- Why Java is Not a Pure OOP Language
+- Objects and Heap Memory
+- Strings in Java
+- Mutable vs Immutable Data
+- Different Ways to Create Strings
+- String Pool (Constant Pool & Non-Constant Pool)
+- String Comparison using == and equals()
+- Reference Comparison vs Value Comparison
+
 -----
 
 ## 📝 LinkedIn Journey
@@ -192,6 +206,7 @@
 |14 |Arrays Part 1 & 2                                         |
 |15 |Arrays Part 3                                             |
 |16 |Arrays Completed                                          |
+|17 |Introduction to Strings                                   |
 
 -----
 
