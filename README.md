@@ -29,7 +29,7 @@
 |M9            |Arrays (Part 2)                          |✅     |
 |M9            |Arrays (Part 3)                          |✅     |
 |M9            |Arrays (Completed)                       |✅     |
-|M10           |Wrapper Classes & Strings (Completed)    |✅     |
+|M10           |Wrapper Classes & Strings Introduction    |✅     |
 
 -----
 
