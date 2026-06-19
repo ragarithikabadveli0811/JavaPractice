@@ -6,7 +6,7 @@
 ╔══════════════════════════════════════════════════════════╗
 ║           JAVA CHALLENGE PROGRESS                       ║
 ║                                                         ║
-║   Day 17  ████████████████████████████████████████████░ 17/21║
+║   Day 18  ████████████████████████████████████████████░ 18/21║
 ║                                                         ║
 ║   ✅ Completed   🔄 In Progress   ⬜ Upcoming           ║
 ╚══════════════════════════════════════════════════════════╝
@@ -29,7 +29,8 @@
 |M9            |Arrays (Part 2)                          |✅     |
 |M9            |Arrays (Part 3)                          |✅     |
 |M9            |Arrays (Completed)                       |✅     |
-|M10           |Wrapper Classes & Strings Introduction    |✅     |
+|M10           |Wrapper Classes & Strings (Completed)    |✅     |
+|M10           |Strings Program Part 1                   |✅     |
 
 -----
 
@@ -54,6 +55,7 @@
 |15 |M9    |2D Jagged Arrays, 3D Jagged Arrays                                                                                              |✅     |
 |16 |M9    |Drawbacks of Arrays, Array Declaration & Instantiation, Array Initialization, Multi-dimensional Array Representation            |✅     |
 |17 |M10   |Introduction to Wrapper Classes, Introduction to Strings                                                                        |✅     |
+|18 |M10   |Programming with Strings                                                                                                        |✅     |
 
 -----
 
@@ -184,6 +186,15 @@
 - String Comparison using == and equals()
 - Reference Comparison vs Value Comparison
 
+### Day 18 – Programming with Strings
+
+- String Pool and Memory Management
+- Reference Equality (==) vs Value Equality (equals())
+- equalsIgnoreCase()
+- String Concatenation using + and concat()
+- Constant Pool vs Non-Constant Pool
+- How Java handles String objects behind the scenes
+
 -----
 
 ## 📝 LinkedIn Journey
@@ -207,6 +218,7 @@
 |15 |Arrays Part 3                                             |
 |16 |Arrays Completed                                          |
 |17 |Introduction to Strings                                   |
+|18 |Programming with Strings Part 1                           |
 
 -----
 
