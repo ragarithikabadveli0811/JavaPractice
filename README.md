@@ -6,7 +6,7 @@
 ╔══════════════════════════════════════════════════════════╗
 ║           JAVA CHALLENGE PROGRESS                       ║
 ║                                                         ║
-║   Day 18  ████████████████████████████████████████████░ 18/21║
+║   Day 19  █████████████████████████████████████████████░ 19/21║
 ║                                                         ║
 ║   ✅ Completed   🔄 In Progress   ⬜ Upcoming           ║
 ╚══════════════════════════════════════════════════════════╝
@@ -31,6 +31,7 @@
 |M9            |Arrays (Completed)                       |✅     |
 |M10           |Wrapper Classes & Strings (Completed)    |✅     |
 |M10           |Strings Program Part 1                   |✅     |
+|M10           |Strings Program Part 2                   |✅     |
 
 -----
 
@@ -56,6 +57,7 @@
 |16 |M9    |Drawbacks of Arrays, Array Declaration & Instantiation, Array Initialization, Multi-dimensional Array Representation            |✅     |
 |17 |M10   |Introduction to Wrapper Classes, Introduction to Strings                                                                        |✅     |
 |18 |M10   |Programming with Strings                                                                                                        |✅     |
+|19 |M10   |Programming with Strings                                                                                                        |✅     |
 
 -----
 
@@ -195,30 +197,41 @@
 - Constant Pool vs Non-Constant Pool
 - How Java handles String objects behind the scenes
 
+### Day 19 – Programming with Strings
+
+- charAt()
+- concat()
+- compareTo()
+- toUpperCase() & toLowerCase()
+- indexOf() & lastIndexOf()
+- startsWith() & endsWith()
+- contains() & substring()
+
 -----
 
 ## 📝 LinkedIn Journey
 
-|Day|Topic                                                     |
-|---|----------------------------------------------------------|
-|01 |Introduction to FSWD & Evolution of Programming Languages |
-|02 |JVM, Bytecode & Platform Independence                     |
-|03 |Understanding Java’s Entry Point and OOP Basics           |
-|04 |Pattern Programming: Hollow, Pyramid & Number Patterns    |
-|05 |Number & Alphabet Pattern Programming                     |
-|06 |Understanding Java Data Types, Memory Allocation & RAM    |
-|07 |Understanding Binary Numbers & Unicode                    |
-|08 |Understanding Type Casting, Overflow & Increment Operators|
-|09 |Understanding Java Operators and Program Logic            |
-|10 |Loops and Control Flow                                    |
-|11 |Understanding Variables in Java                           |
-|12 |Methods in Java and their Types                           |
-|13 |Variables and Methods                                     |
-|14 |Arrays Part 1 & 2                                         |
-|15 |Arrays Part 3                                             |
-|16 |Arrays Completed                                          |
-|17 |Introduction to Strings                                   |
-|18 |Programming with Strings Part 1                           |
+|Day|Topic                                                                 |
+|---|----------------------------------------------------------------------|
+|01 |Introduction to FSWD & Evolution of Programming Languages             |
+|02 |JVM, Bytecode & Platform Independence                                 |
+|03 |Understanding Java’s Entry Point and OOP Basics                       |
+|04 |Pattern Programming: Hollow, Pyramid & Number Patterns                |
+|05 |Number & Alphabet Pattern Programming                                 |
+|06 |Understanding Java Data Types, Memory Allocation & RAM                |
+|07 |Understanding Binary Numbers & Unicode                                |
+|08 |Understanding Type Casting, Overflow & Increment Operators            |
+|09 |Understanding Java Operators and Program Logic                        |
+|10 |Loops and Control Flow                                                |
+|11 |Understanding Variables in Java                                       |
+|12 |Methods in Java and their Types                                       |
+|13 |Variables and Methods                                                 |
+|14 |Arrays Part 1 & 2                                                     |
+|15 |Arrays Part 3                                                         |
+|16 |Arrays Completed                                                      |
+|17 |Introduction to Strings                                               |
+|18 |Programming with Strings Part 1                                       |
+|19 |Programming with Strings Part 2 and Introduction to Built-in Functions|
 
 -----
 
