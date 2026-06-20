@@ -202,7 +202,7 @@
 - charAt()
 - concat()
 - compareTo()
-- toUpperCase() & toLowerCase()
+- toUpperCase()&toLowerCase()
 - indexOf() & lastIndexOf()
 - startsWith() & endsWith()
 - contains() & substring()
