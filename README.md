@@ -6,7 +6,7 @@
 ╔══════════════════════════════════════════════════════════╗
 ║           JAVA CHALLENGE PROGRESS                       ║
 ║                                                         ║
-║   Day 19  █████████████████████████████████████████████░ 19/21║
+║   Day 20  ██████████████████████████████████████████████░ 20/21║
 ║                                                         ║
 ║   ✅ Completed   🔄 In Progress   ⬜ Upcoming           ║
 ╚══════════════════════════════════════════════════════════╝
@@ -32,6 +32,7 @@
 |M10           |Wrapper Classes & Strings (Completed)    |✅     |
 |M10           |Strings Program Part 1                   |✅     |
 |M10           |Strings Program Part 2                   |✅     |
+|M10           |StringBuffer and StringBuilder           |✅     |
 
 -----
 
@@ -58,6 +59,7 @@
 |17 |M10   |Introduction to Wrapper Classes, Introduction to Strings                                                                        |✅     |
 |18 |M10   |Programming with Strings                                                                                                        |✅     |
 |19 |M10   |Programming with Strings                                                                                                        |✅     |
+|20 |M10   |StringBuffer and StringBuilder                                                                                                  |✅     |
 
 -----
 
@@ -202,10 +204,17 @@
 - charAt()
 - concat()
 - compareTo()
-- toUpperCase()&toLowerCase()
+- toUpperCase() & toLowerCase()
 - indexOf() & lastIndexOf()
 - startsWith() & endsWith()
 - contains() & substring()
+
+### Day 20
+
+- StringBuilder
+- StringBuffer
+- StringTokenizer
+- String methods
 
 -----
 
@@ -232,6 +241,7 @@
 |17 |Introduction to Strings                                               |
 |18 |Programming with Strings Part 1                                       |
 |19 |Programming with Strings Part 2 and Introduction to Built-in Functions|
+|20 |StringBuilder and StringBuffer                                        |
 
 -----
 
