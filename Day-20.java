@@ -4,11 +4,8 @@ class Demo1 {
     public static void main(String[] args) {
 
         StringBuffer st = new StringBuffer();
-
         System.out.println("Initial Capacity = " + st.capacity());
-
         st.append("JAVA");
-
         System.out.println("String = " + st);
         System.out.println("Capacity = " + st.capacity());
     }
@@ -27,11 +24,9 @@ class Demo2 {
     public static void main(String[] args) {
 
         StringBuffer st = new StringBuffer();
-
         st.append("JAVA");
         st.append("JAVASCRIPT");
         st.append("JAVA AND PYTHON");
-
         System.out.println(st);
         System.out.println("Capacity = " + st.capacity());
     }
@@ -43,7 +38,6 @@ JAVAJAVASCRIPTJAVA AND PYTHON
 Capacity = 34
 
 NOTE:
-
 New Capacity = (Old Capacity * 2) + 2
              = (16 * 2) + 2
              = 34
@@ -55,25 +49,16 @@ class Demo3 {
     public static void main(String[] args) {
 
         StringBuilder st = new StringBuilder();
-
         System.out.println(st.capacity());
-
         st.append("JAVA");
         st.append("JAVASCRIPT");
         st.append("JAMESGOSLING");
-
         System.out.println(st.capacity());
-
         System.out.println(st);
-
         System.out.println("Length = " + st.length());
-
         st.trimToSize();
-
         System.out.println("Capacity after trimToSize = " + st.capacity());
-
         st.delete(1, 10);
-
         System.out.println(st);
     }
 }
@@ -96,9 +81,7 @@ class Demo4 {
     public static void main(String[] args) {
 
         String s = "JAVA PYTHON SQL AI";
-
         StringTokenizer st = new StringTokenizer(s);
-
         while (st.hasMoreTokens()) {
             System.out.println(st.nextToken());
         }
@@ -121,9 +104,7 @@ class Demo5 {
     public static void main(String[] args) {
 
         String s = "JAVA PYTHON SQL AI";
-
         StringTokenizer st = new StringTokenizer(s, "A");
-
         while (st.hasMoreTokens()) {
             System.out.println(st.nextToken());
         }
@@ -143,11 +124,8 @@ QUESTION 6: Count Number of Spaces in a String
 class Demo6 {
 
     static int spaceCount(String s) {
-
         int count = 0;
-
         for (int i = 0; i < s.length(); i++) {
-
             if (s.charAt(i) == ' ') {
                 count++;
             }
@@ -157,9 +135,7 @@ class Demo6 {
     }
 
     public static void main(String[] args) {
-
         String s = "How are you";
-
         System.out.println(spaceCount(s));
     }
 }
@@ -167,20 +143,6 @@ class Demo6 {
 OUTPUT:
 
 2
-
-If you want Number of Words:
-
-Replace
-
-return count;
-
-with
-
-return count + 1;
-
-OUTPUT:
-
-3
 
 
 QUESTION 7: Count Occurrences of a Character in a String
@@ -190,11 +152,8 @@ class Demo7 {
     static int charCount(String s, String t) {
 
         int count = 0;
-
         char key = t.charAt(0);
-
         for (int i = 0; i < s.length(); i++) {
-
             if (s.charAt(i) == key) {
                 count++;
             }
@@ -207,7 +166,6 @@ class Demo7 {
 
         String s = "How are you";
         String t = "o";
-
         System.out.println(charCount(s, t));
     }
 }
