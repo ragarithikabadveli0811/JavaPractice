@@ -2,15 +2,15 @@
 
 ## 📊 Overall Progress
 
-```text
+​```text
 ╔══════════════════════════════════════════════════════════╗
 ║           JAVA CHALLENGE PROGRESS                       ║
 ║                                                         ║
-║   Day 20  ██████████████████████████████████████████████░ 20/21║
+║   Day 21  ████████████████████████████████████████████████ 21/21║
 ║                                                         ║
 ║   ✅ Completed   🔄 In Progress   ⬜ Upcoming           ║
 ╚══════════════════════════════════════════════════════════╝
-```
+​```
 
 ## 📘 TAP Academy Curriculum Progress
 
@@ -33,6 +33,7 @@
 |M10           |Strings Program Part 1                   |✅     |
 |M10           |Strings Program Part 2                   |✅     |
 |M10           |StringBuffer and StringBuilder           |✅     |
+|M10           |Inbuilt Functions Part 1                 |✅     |
 
 -----
 
@@ -44,7 +45,7 @@
 |02 |M3    |JVM, Bytecode, Platform Independence                                                                                            |✅     |
 |03 |M3    |Java Program Structure, OOP Introduction, main() Method                                                                         |✅     |
 |04 |M5    |Pattern Programming Part 1 & 2, Hollow & Pyramid Patterns                                                                       |✅     |
-|05 |M5    |Floyd’s Triangle, Alphabet Patterns, Zig-Zag Patterns                                                                           |✅     |
+|05 |M5    |Floyd's Triangle, Alphabet Patterns, Zig-Zag Patterns                                                                           |✅     |
 |06 |M6    |Data Types, RAM, Bits & Bytes, Memory Allocation                                                                                |✅     |
 |07 |M6    |Binary Numbers, MSB, Signed Numbers, Complements, Unicode                                                                       |✅     |
 |08 |M6    |Type Casting, Truncation, Overflow, Increment & Decrement Operators                                                             |✅     |
@@ -60,52 +61,46 @@
 |18 |M10   |Programming with Strings                                                                                                        |✅     |
 |19 |M10   |Programming with Strings                                                                                                        |✅     |
 |20 |M10   |StringBuffer and StringBuilder                                                                                                  |✅     |
+|21 |M10   |Inbuilt Functions Part 1                                                                                                        |✅     |
 
 -----
 
 ## 💡 Learning Highlights
 
 ### Day 01
-
 - Evolution of Programming Languages
 - Why Java?
 - FSWD Basics
 
 ### Day 02
-
 - JVM Architecture
 - Bytecode
 - Platform Independence
 
 ### Day 03
-
 - Java Program Structure
 - OOP Basics
 - main() Method
 
 ### Day 04–05
-
 - Pattern Programming
 - Number Patterns
 - Alphabet Patterns
-- Floyd’s Triangle
+- Floyd's Triangle
 - Zig-Zag Patterns
 
 ### Day 06
-
 - Primitive Data Types
 - RAM, Bits & Bytes
 - Memory Allocation
 
 ### Day 07
-
 - Binary Representation
 - MSB & Signed Numbers
-- 1’s & 2’s Complement
+- 1's & 2's Complement
 - ASCII vs Unicode
 
 ### Day 08
-
 - Implicit & Explicit Type Casting
 - Data Loss & Precision
 - Truncation
@@ -113,7 +108,6 @@
 - Increment & Decrement Operators
 
 ### Day 09
-
 - Arithmetic Operators
 - Relational Operators
 - Logical Operators
@@ -122,7 +116,6 @@
 - Program Flow & Decision Making
 
 ### Day 10 – Loops
-
 - While Loop
 - Do-While Loop
 - For Loop Revision
@@ -130,7 +123,6 @@
 - Boolean-Controlled Loops
 
 ### Day 11 – Variables
-
 - Variable Declaration
 - Initialization
 - Scope of Variables
@@ -138,14 +130,12 @@
 - Data Storage and Memory
 
 ### Day 12 – Methods
-
 - Method Structure
 - Parameters and Return Types
 - Different Types of Methods
 - Stack and Heap Memory During Method Execution
 
 ### Day 13 – Value, Reference & Packages
-
 - Value Type Assignment
 - Reference Type Assignment
 - Pass by Value vs Pass by Reference
@@ -154,14 +144,12 @@
 - Scanner Class for User Input
 
 ### Day 14 – Arrays
-
 - Construction of Arrays
 - 1D Arrays
 - 2D Arrays
 - 3D Arrays
 
 ### Day 15 – Arrays (Continued)
-
 - 2D Jagged Arrays
 - 3D Jagged Arrays
 - Dynamic Memory Allocation using new
@@ -169,7 +157,6 @@
 - Using .length in Multi-dimensional Arrays
 
 ### Day 16 – Arrays (Completed)
-
 - Drawbacks of Arrays
 - Array Declaration & Instantiation
 - Array Initialization
@@ -179,7 +166,6 @@
 - Multi-dimensional Array Representation
 
 ### Day 17 – Wrapper Classes & Strings
-
 - Primitive Data Types vs Wrapper Classes
 - Why Java is Not a Pure OOP Language
 - Objects and Heap Memory
@@ -191,7 +177,6 @@
 - Reference Comparison vs Value Comparison
 
 ### Day 18 – Programming with Strings
-
 - String Pool and Memory Management
 - Reference Equality (==) vs Value Equality (equals())
 - equalsIgnoreCase()
@@ -200,7 +185,6 @@
 - How Java handles String objects behind the scenes
 
 ### Day 19 – Programming with Strings
-
 - charAt()
 - concat()
 - compareTo()
@@ -210,11 +194,16 @@
 - contains() & substring()
 
 ### Day 20
-
 - StringBuilder
 - StringBuffer
 - StringTokenizer
 - String methods
+
+### Day 21
+- Custom toUpperCase() logic
+- indexOf() implementation
+- Finding the Kth occurrence of a character
+- lastIndexOf() implementation
 
 -----
 
@@ -224,7 +213,7 @@
 |---|----------------------------------------------------------------------|
 |01 |Introduction to FSWD & Evolution of Programming Languages             |
 |02 |JVM, Bytecode & Platform Independence                                 |
-|03 |Understanding Java’s Entry Point and OOP Basics                       |
+|03 |Understanding Java's Entry Point and OOP Basics                       |
 |04 |Pattern Programming: Hollow, Pyramid & Number Patterns                |
 |05 |Number & Alphabet Pattern Programming                                 |
 |06 |Understanding Java Data Types, Memory Allocation & RAM                |
@@ -242,6 +231,7 @@
 |18 |Programming with Strings Part 1                                       |
 |19 |Programming with Strings Part 2 and Introduction to Built-in Functions|
 |20 |StringBuilder and StringBuffer                                        |
+|21 |Inbuilt Functions Part 1                                              |
 
 -----
 
